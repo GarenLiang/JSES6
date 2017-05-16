@@ -11,3 +11,4 @@ Javascript ES6 Practice :high_brightness::no_mouth:
 * TemplateString  :golf:
 * Arrow :whale:
 * Enhanced :watermelon:
+* Arguments :earth_asia:
