@@ -10,3 +10,4 @@ Javascript ES6 Practice :high_brightness::no_mouth:
 * Const :jack_o_lantern:
 * TemplateString  :golf:
 * Arrow :whale:
+* Enhanced :watermelon:
